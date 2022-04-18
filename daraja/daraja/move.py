@@ -1,0 +1,1 @@
+https://sms.movesms.co.ke/api/compose?username=eduh354&api_key=&sender=SMARTLINK&to=[Your+Recipients]&message=[Your message]&msgtype=[Type of the message]&dlr=[Type of Delivery Report]
